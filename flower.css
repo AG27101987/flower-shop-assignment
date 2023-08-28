@@ -164,10 +164,11 @@
     font-weight: 400;
 }
 
-
-
 .instagram-image {
     display: flex;
     justify-content: center;
     gap: 20px;
 }
+
+/* style for deal section */
+
