@@ -124,6 +124,7 @@
     text-align: center;
     gap: 100px;
     padding: 200px;
+    
 }
 
 .offer-title {
@@ -165,6 +166,7 @@
 }
 
 .instagram-image {
+    
     display: flex;
     justify-content: center;
     gap: 20px;
@@ -172,18 +174,29 @@
 
 /* style for deal section */
 
+.deal-section{
+    padding: 50px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+   text-align: center;
+}
 
+.deal{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
 
 
 /* style for footer section */
 
 
-
 .footer-section {
     background-color: black;
+    align-items: center;
     text-align: center;
-    height: 100%;
-    padding: 50px;
+    height: 200px;
+    padding: 100px;
   }
 
 .footer-title {
