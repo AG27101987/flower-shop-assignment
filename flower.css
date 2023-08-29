@@ -172,3 +172,42 @@
 
 /* style for deal section */
 
+
+
+
+/* style for footer section */
+
+
+
+.footer-section {
+    background-color: black;
+    text-align: center;
+    height: 100%;
+    padding: 50px;
+  }
+
+.footer-title {
+    font-size: 48px;
+    font-weight: 800;
+}
+
+.flower {
+    color: #E55473;
+}
+
+.shop {
+    color: #FFF;
+}
+
+.footer-description {
+    color: rgba(255, 255, 255, 0.90);
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 15px;
+}
+
+.copy-right {
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 16px;
+    font-weight: 400;
+}
